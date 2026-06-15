@@ -153,10 +153,6 @@ joblib
 
 **Harshit Bhandari**
 
-GitHub: https://github.com/yourusername
-
-LinkedIn: *Add your LinkedIn profile here*
-
 ---
 
 ## License
